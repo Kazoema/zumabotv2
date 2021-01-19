@@ -17,6 +17,7 @@ you've just cloned!!
 > apt-get update && apt-get upgrade
 > pkg install git
 > pkg install bash
+> pkg install nodejs
 ```
 ## Clone this project
 
