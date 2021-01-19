@@ -30,41 +30,46 @@ you've just cloned!!
 > node index.js
 ```
 
-## Features
+## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-|       ✅       | Daftar          |
-| :-----------: | :--------------------------------: |
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
-
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
-
-| Group  |                     Feature               |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-
-| Owner Bot  |                     Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats               
-
-## Special Thanks to
+| ZUMABOT      |                   Feature        |
+| :-----------: | :------------------------------: |
+|       ✅       | Register                  |
+|       ✅       | Sticker Creator                  |
+|       ❎       | Nulis                            |
+|       ✅       | Covid (new)                      |
+|       ✅       | Alay (new)                       |
+|       ✅       | Lirik (new)                      |
+|       ✅       | Foto Anime                       |
+|       ✅       | Foto cewek/cowok (new)           |
+|       ✅       | Pantun                           |
+|       ✅       | Youtube Downloader               |
+|       ✅       | Quotes                           |
+|       ✅       | Nama (new)                       |
+|       ✅       | Foto Anime                       |
+|       ✅       | Pasangan (new)                   |
+|       ✅       | Sholat (new )                    |
+|       ✅       | Suara Google (fix)               |
+|       ✅       | Quran                            |
+|       ✅       | Youtube MP3 Downloader           |
+|       ✅       | Intagram Downloader              |
+|       ✅       | Twitter Downloader               |
+|       ✅       | Facebook Downloader              |
+|       ✅       | TikTok Downloader  (new)         |
+|       ✅       | Wikipedia                        |
+|       ✅       | Say                              |
+|       ✅       | Toxic (new)                      |
+|       ✅       | loli                             |
+|       ✅       | hentai                           |
+|       ✅       | Owner (new)                      |
+|       ✅       | kata bijak                       |
+|       ✅       | Fakta                            |
+|       ✅       | Pokemon                          |
+|       ✅       | Info                             |
+|       ✅       | Donate                           |
+|       ✅       | 18+.                             |
+|                   MORE  Fitur                     |
+## Special Thanks
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
@@ -73,3 +78,5 @@ you've just cloned!!
 * [`WhatsApp`](Error waiting)
 ### Donate
 * <a href="https://saweria.co/kazumaDC"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
