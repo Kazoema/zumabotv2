@@ -1,4 +1,4 @@
-#I'm Lord Kazoema
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm LORD KAZOEMA
 <p align="center">
 <a href="https://github.com/Kazoema/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kazoema?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kazoema/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kazoema?color=red&style=flat-square"></a>
